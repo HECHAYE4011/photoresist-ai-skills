@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研副导师监督"
+  short_description: "统筹博士科研调研、创新、实验、证据审计和论文闭环全过程"
+  default_prompt: "Use $supervisor-research to supervise this doctoral research task from literature and novelty through executed experiments, comparison, evidence audit, and concise handoff."
